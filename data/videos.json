@@ -315,6 +315,27 @@
   ]
  },
  {
+  "slug": "claude-motion-reel",
+  "title": "Claude, motion designer: a 15-second reel from one sentence",
+  "section": "Showreels and kinetic type",
+  "maker": "新旧",
+  "handle": null,
+  "url": "https://www.xiaohongshu.com/explore/6ac7a32f000000001a02693d",
+  "date": "2026-10-08",
+  "likes": 2268,
+  "reposts": 0,
+  "views": 0,
+  "score": 8,
+  "model": "Claude (the post doesn't name the model)",
+  "desc": "A reel styled as a motion designer's portfolio: particle lettering, easing curves under the heading \"Timing is everything\", liquid type and an orange end card that tallies 899 frames, 8 scenes and 1 keyframe. From one sentence in Chinese, the same prompt that went around X.",
+  "prompt": "做一段15秒的动效视频，展示你是个多么厉害的动效设计师，就像简历用的作品集，全力以赴。",
+  "imgs": [
+   "assets/shots/claude-motion-reel-1.jpg",
+   "assets/shots/claude-motion-reel-2.jpg",
+   "assets/shots/claude-motion-reel-3.jpg"
+  ]
+ },
+ {
   "slug": "no-samples-showreel",
   "title": "A showreel with music synthesized from scratch",
   "section": "Showreels and kinetic type",

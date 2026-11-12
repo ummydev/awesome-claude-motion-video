@@ -1,12 +1,12 @@
 # Awesome Claude Motion Video
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Videos](https://img.shields.io/badge/videos-41-8a5cf6) ![Prompts](https://img.shields.io/badge/verbatim_prompts-40-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Videos](https://img.shields.io/badge/videos-42-8a5cf6) ![Prompts](https://img.shields.io/badge/verbatim_prompts-41-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 <img src="assets/mosaic.jpg" alt="Frames from motion graphics videos made with Claude Opus 5.5: launch films for Notion, TypingMind and an inference startup, kinetic type, logo reveals and recipe explainers" width="100%">
 
 A curated list of **motion graphics videos made with Claude**, mostly **Claude Opus 5.5**: product launch films, UI motion with real text, logo reveals, kinetic type and explainers. Claude writes each one as code (HTML, SVG, React, Remotion or Three.js, with music synthesized in Python or JavaScript) and renders it to an MP4; none of them use a video model. Only the polished ones made it in. Each is credited to its maker and linked to the post where they shared it, and where the maker published the prompt, it's copied here word for word.
 
-**41 videos · 40 with prompts** · Updated 2026-11-12
+**42 videos · 41 with prompts** · Updated 2026-11-12
 
 Our other lists: **[awesome-claude-fable-videos](https://github.com/ummydev/awesome-claude-fable-videos)** (3D worlds and short films) and **[awesome-claude-fable-games](https://github.com/ummydev/awesome-claude-fable-games)**.
 
@@ -15,7 +15,7 @@ Our other lists: **[awesome-claude-fable-videos](https://github.com/ummydev/awes
 - [All videos](#all-videos)
 - [Product launch films](#product-launch-films) (22)
 - [Logo reveals and brand films](#logo-reveals-and-brand-films) (4)
-- [Showreels and kinetic type](#showreels-and-kinetic-type) (10)
+- [Showreels and kinetic type](#showreels-and-kinetic-type) (11)
 - [Explainers](#explainers) (5)
 - [The prompt everyone copied](#the-prompt-everyone-copied)
 - [How we pick and score](#how-we-pick-and-score)
@@ -43,6 +43,7 @@ Sorted by our score, then by likes on the original post. Click a frame to jump t
 | <a href="#poster-breaks-out"><img src="assets/shots/poster-breaks-out-1.jpg" width="160" alt="A poster breaking out of its own frame"></a> | **[A poster breaking out of its own frame](#poster-breaks-out)**<br><sub>Showreels and kinetic type</sub> | [Pankaj Kumar](https://x.com/pankajkumar_dev) | 39 | 4.5K | 9/10 |
 | <a href="#i-can"><img src="assets/shots/i-can-1.jpg" width="160" alt="I CAN: blur, loop, render, swarm, bend light"></a> | **[I CAN: blur, loop, render, swarm, bend light](#i-can)**<br><sub>Showreels and kinetic type</sub> | [Eugene C](https://x.com/zheke) | 22 | 7.6K | 9/10 |
 | <a href="#light-speed-earth"><img src="assets/shots/light-speed-earth-1.jpg" width="160" alt="One second on Earth"></a> | **[One second on Earth](#light-speed-earth)**<br><sub>Showreels and kinetic type</sub> | [Nolan Keegan](https://x.com/nolkeeg) | 1 | 368 | 9/10 |
+| <a href="#claude-motion-reel"><img src="assets/shots/claude-motion-reel-1.jpg" width="160" alt="Claude, motion designer: a 15-second reel from one sentence"></a> | **[Claude, motion designer: a 15-second reel from one sentence](#claude-motion-reel)**<br><sub>Showreels and kinetic type</sub> | [新旧](https://www.xiaohongshu.com/explore/6ac7a32f000000001a02693d) | 2.3K |  | 8/10 |
 | <a href="#no-samples-showreel"><img src="assets/shots/no-samples-showreel-1.jpg" width="160" alt="A showreel with music synthesized from scratch"></a> | **[A showreel with music synthesized from scratch](#no-samples-showreel)**<br><sub>Showreels and kinetic type</sub> | [Prasenjit](https://x.com/prasenx) | 206 | 15.1K | 8/10 |
 | <a href="#motionsites-1m-visitors"><img src="assets/shots/motionsites-1m-visitors-1.jpg" width="160" alt="MotionSites hits 1 million monthly visitors"></a> | **[MotionSites hits 1 million monthly visitors](#motionsites-1m-visitors)**<br><sub>Product launch films</sub> | [Viktor Oddy](https://x.com/viktoroddy) | 110 | 11.2K | 8/10 |
 | <a href="#famewall-mascot"><img src="assets/shots/famewall-mascot-1.jpg" width="160" alt="Famewall: it found the mascot and brought it in"></a> | **[Famewall: it found the mascot and brought it in](#famewall-mascot)**<br><sub>Product launch films</sub> | [Goutham Jay](https://x.com/gouthamjay8) | 86 | 7K | 8/10 |
@@ -755,6 +756,24 @@ Please do not reference any previous memories or skills. I've been seeing all of
 
 <sub>Our score: 9/10 for design, polish and motion.</sub>
 
+### Claude, motion designer: a 15-second reel from one sentence
+<a id="claude-motion-reel"></a>
+
+<p><a href="https://www.xiaohongshu.com/explore/6ac7a32f000000001a02693d"><img src="assets/shots/claude-motion-reel-1.jpg" width="32%" alt="Claude, motion designer: a 15-second reel from one sentence: frame 1"></a> <a href="https://www.xiaohongshu.com/explore/6ac7a32f000000001a02693d"><img src="assets/shots/claude-motion-reel-2.jpg" width="32%" alt="Claude, motion designer: a 15-second reel from one sentence: frame 2"></a> <a href="https://www.xiaohongshu.com/explore/6ac7a32f000000001a02693d"><img src="assets/shots/claude-motion-reel-3.jpg" width="32%" alt="Claude, motion designer: a 15-second reel from one sentence: frame 3"></a></p>
+
+A reel styled as a motion designer's portfolio: particle lettering, easing curves under the heading "Timing is everything", liquid type and an orange end card that tallies 899 frames, 8 scenes and 1 keyframe. From one sentence in Chinese, the same prompt that went around X.
+
+- **Watch:** [the original post on Xiaohongshu](https://www.xiaohongshu.com/explore/6ac7a32f000000001a02693d) (2.3K likes), posted 2026-10-08
+- **Made by:** 新旧 on Xiaohongshu, with Claude (the post doesn't name the model)
+
+**Prompt** (verbatim, in the maker's reply to the post):
+
+```text
+做一段15秒的动效视频，展示你是个多么厉害的动效设计师，就像简历用的作品集，全力以赴。
+```
+
+<sub>Our score: 8/10 for design, polish and motion.</sub>
+
 ### A showreel with music synthesized from scratch
 <a id="no-samples-showreel"></a>
 
@@ -976,7 +995,7 @@ The longest prompts ([MakerMap](#makermap-one-shape), [TanStack AI](#tanstack-ai
 - The maker says the video was made with Claude (Opus 5.5, or Fable 5.2 where marked), as code.
 - It has to look good: we watched every video and kept only the polished ones. The score (out of 10) is ours, for design, polish and motion.
 - We opened every post and its replies by hand to check the prompt, the tools and any follow-up messages the maker mentions.
-- Likes and views are what the original post showed when we checked it (November 12, 2026).
+- Likes and views are what the original post showed when we checked it (November 12, 2026). One video is from Xiaohongshu (小红书), which shows likes but not views.
 - The frames above are stills from each maker's own video, linked back to the post. Machine-readable list: [`data/videos.json`](data/videos.json).
 
 ## Add a video
