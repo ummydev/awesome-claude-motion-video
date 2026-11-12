@@ -105,6 +105,27 @@
   ]
  },
  {
+  "slug": "pelican-riding-a-bicycle",
+  "title": "A pelican riding a bicycle, made properly",
+  "section": "Showreels and kinetic type",
+  "maker": "SugarV",
+  "handle": null,
+  "url": "https://www.xiaohongshu.com/explore/6af44c8b000000001f014c7a",
+  "date": "2026-11-11",
+  "likes": 401,
+  "reposts": 0,
+  "views": 0,
+  "score": 9,
+  "model": "Claude Opus 5.5",
+  "desc": "Tired of the SVG pelicans every new model gets asked for, the maker asked for the most detailed one possible. A pelican rides a green bicycle down a pier at sunset: a flock overhead, a close-up of the chain and its feet on the pedals, its face, then a long shot down the jetty. Opus 5.5 wrote all of it in Claude Code: a Blender 5.2 scene rendered in Cycles, its own volumetric cloud renderer in Rust for a 12K sky, about 24,000 feathers, a bike with 36 spokes and 92 chain links, the animation, the music and the sound effects, with no ready-made models, textures or music. 792 frames at 1080p took about 42 seconds each on a 4 GB GTX 1650 Ti. The maker points out rough feathers and a flawed moment where the pelican eats a fish.",
+  "prompt": "Every time a new model comes out, everyone has it draw \"a pelican riding a bicycle\" to judge its spatial ability, and it's almost always animated with HTML and SVG. I'm honestly tired of looking at them, so I want you to make the most complex, most detailed, most beautiful animated video of \"a pelican riding a bicycle\". You can use any technology. There's no rush; you can spend a whole day drawing it.",
+  "imgs": [
+   "assets/shots/pelican-riding-a-bicycle-1.jpg",
+   "assets/shots/pelican-riding-a-bicycle-2.jpg",
+   "assets/shots/pelican-riding-a-bicycle-3.jpg"
+  ]
+ },
+ {
   "slug": "makermap-one-shape",
   "title": "MakerMap: one shape morphing through the whole product",
   "section": "Product launch films",

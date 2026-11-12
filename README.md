@@ -1,12 +1,12 @@
 # Awesome Claude Motion Video
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Videos](https://img.shields.io/badge/videos-42-8a5cf6) ![Prompts](https://img.shields.io/badge/verbatim_prompts-41-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Videos](https://img.shields.io/badge/videos-43-8a5cf6) ![Prompts](https://img.shields.io/badge/verbatim_prompts-42-f59e0b) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 <img src="assets/mosaic.jpg" alt="Frames from motion graphics videos made with Claude Opus 5.5: launch films for Notion, TypingMind and an inference startup, kinetic type, logo reveals and recipe explainers" width="100%">
 
-A curated list of **motion graphics videos made with Claude**, mostly **Claude Opus 5.5**: product launch films, UI motion with real text, logo reveals, kinetic type and explainers. Claude writes each one as code (HTML, SVG, React, Remotion or Three.js, with music synthesized in Python or JavaScript) and renders it to an MP4; none of them use a video model. Only the polished ones made it in. Each is credited to its maker and linked to the post where they shared it, and where the maker published the prompt, it's copied here word for word.
+A curated list of **motion graphics videos made with Claude**, mostly **Claude Opus 5.5**: product launch films, UI motion with real text, logo reveals, kinetic type and explainers. Claude writes each one as code (HTML, SVG, React, Remotion, Three.js or Blender driven from Python, with music synthesized in Python or JavaScript) and renders it to an MP4; none of them use a video model. Only the polished ones made it in. Each is credited to its maker and linked to the post where they shared it, and where the maker published the prompt, it's copied here word for word.
 
-**42 videos · 41 with prompts** · Updated 2026-11-12
+**43 videos · 42 with prompts** · Updated 2026-11-12
 
 Our other lists: **[awesome-claude-fable-videos](https://github.com/ummydev/awesome-claude-fable-videos)** (3D worlds and short films) and **[awesome-claude-fable-games](https://github.com/ummydev/awesome-claude-fable-games)**.
 
@@ -15,7 +15,7 @@ Our other lists: **[awesome-claude-fable-videos](https://github.com/ummydev/awes
 - [All videos](#all-videos)
 - [Product launch films](#product-launch-films) (22)
 - [Logo reveals and brand films](#logo-reveals-and-brand-films) (4)
-- [Showreels and kinetic type](#showreels-and-kinetic-type) (11)
+- [Showreels and kinetic type](#showreels-and-kinetic-type) (12)
 - [Explainers](#explainers) (5)
 - [The prompt everyone copied](#the-prompt-everyone-copied)
 - [How we pick and score](#how-we-pick-and-score)
@@ -33,6 +33,7 @@ Sorted by our score, then by likes on the original post. Click a frame to jump t
 | <a href="#negroni-recipe"><img src="assets/shots/negroni-recipe-1.jpg" width="160" alt="A Negroni, poured step by step"></a> | **[A Negroni, poured step by step](#negroni-recipe)**<br><sub>Explainers</sub> | [Rory Flynn](https://x.com/Ror_Fly) | 1K | 81.2K | 9/10 |
 | <a href="#typingmind-launch"><img src="assets/shots/typingmind-launch-1.jpg" width="160" alt="TypingMind: one prompt instead of four weeks with freelancers"></a> | **[TypingMind: one prompt instead of four weeks with freelancers](#typingmind-launch)**<br><sub>Product launch films</sub> | [Ann Nguyen](https://x.com/ann_nnng) | 984 | 102.8K | 9/10 |
 | <a href="#notion-launch-it-picked"><img src="assets/shots/notion-launch-it-picked-1.jpg" width="160" alt="A Notion launch film, product picked by Opus"></a> | **[A Notion launch film, product picked by Opus](#notion-launch-it-picked)**<br><sub>Product launch films</sub> | [Moritz Kremb](https://x.com/moritzkremb) | 444 | 100.3K | 9/10 |
+| <a href="#pelican-riding-a-bicycle"><img src="assets/shots/pelican-riding-a-bicycle-1.jpg" width="160" alt="A pelican riding a bicycle, made properly"></a> | **[A pelican riding a bicycle, made properly](#pelican-riding-a-bicycle)**<br><sub>Showreels and kinetic type</sub> | [SugarV](https://www.xiaohongshu.com/explore/6af44c8b000000001f014c7a) | 401 |  | 9/10 |
 | <a href="#makermap-one-shape"><img src="assets/shots/makermap-one-shape-1.jpg" width="160" alt="MakerMap: one shape morphing through the whole product"></a> | **[MakerMap: one shape morphing through the whole product](#makermap-one-shape)**<br><sub>Product launch films</sub> | [Martijn Verbove](https://x.com/verbove) | 243 | 18.3K | 9/10 |
 | <a href="#history-of-ai"><img src="assets/shots/history-of-ai-1.jpg" width="160" alt="83 years of AI in under three minutes"></a> | **[83 years of AI in under three minutes](#history-of-ai)**<br><sub>Explainers</sub> | [klöss](https://x.com/kloss_xyz) | 197 | 10.7K | 9/10 |
 | <a href="#how-llms-work-fable"><img src="assets/shots/how-llms-work-fable-1.jpg" width="160" alt="How LLMs work, as a motion graphic (Fable 5.2)"></a> | **[How LLMs work, as a motion graphic (Fable 5.2)](#how-llms-work-fable)**<br><sub>Explainers</sub> | [Matthew Berman](https://x.com/MatthewBerman) | 100 | 7.9K | 9/10 |
@@ -684,6 +685,24 @@ use this image only as a style/vibe refference image and create a Opus 5.5 launc
 
 ## Showreels and kinetic type
 
+### A pelican riding a bicycle, made properly
+<a id="pelican-riding-a-bicycle"></a>
+
+<p><a href="https://www.xiaohongshu.com/explore/6af44c8b000000001f014c7a"><img src="assets/shots/pelican-riding-a-bicycle-1.jpg" width="32%" alt="A pelican riding a bicycle, made properly: frame 1"></a> <a href="https://www.xiaohongshu.com/explore/6af44c8b000000001f014c7a"><img src="assets/shots/pelican-riding-a-bicycle-2.jpg" width="32%" alt="A pelican riding a bicycle, made properly: frame 2"></a> <a href="https://www.xiaohongshu.com/explore/6af44c8b000000001f014c7a"><img src="assets/shots/pelican-riding-a-bicycle-3.jpg" width="32%" alt="A pelican riding a bicycle, made properly: frame 3"></a></p>
+
+Tired of the SVG pelicans every new model gets asked for, the maker asked for the most detailed one possible. A pelican rides a green bicycle down a pier at sunset: a flock overhead, a close-up of the chain and its feet on the pedals, its face, then a long shot down the jetty. Opus 5.5 wrote all of it in Claude Code: a Blender 5.2 scene rendered in Cycles, its own volumetric cloud renderer in Rust for a 12K sky, about 24,000 feathers, a bike with 36 spokes and 92 chain links, the animation, the music and the sound effects, with no ready-made models, textures or music. 792 frames at 1080p took about 42 seconds each on a 4 GB GTX 1650 Ti. The maker points out rough feathers and a flawed moment where the pelican eats a fish.
+
+- **Watch:** [the original post on Xiaohongshu](https://www.xiaohongshu.com/explore/6af44c8b000000001f014c7a) (401 likes), posted 2026-11-11
+- **Made by:** SugarV on Xiaohongshu, with Claude Opus 5.5
+
+**Prompt** (verbatim, in the maker's [follow-up note](https://www.xiaohongshu.com/explore/6af55205000000002500af20), which gives it in English and Chinese):
+
+```text
+Every time a new model comes out, everyone has it draw "a pelican riding a bicycle" to judge its spatial ability, and it's almost always animated with HTML and SVG. I'm honestly tired of looking at them, so I want you to make the most complex, most detailed, most beautiful animated video of "a pelican riding a bicycle". You can use any technology. There's no rush; you can spend a whole day drawing it.
+```
+
+<sub>Our score: 9/10 for design, polish and motion.</sub>
+
 ### Phosphene: a psychedelic motion study
 <a id="psychedelic-showreel"></a>
 
@@ -995,7 +1014,7 @@ The longest prompts ([MakerMap](#makermap-one-shape), [TanStack AI](#tanstack-ai
 - The maker says the video was made with Claude (Opus 5.5, or Fable 5.2 where marked), as code.
 - It has to look good: we watched every video and kept only the polished ones. The score (out of 10) is ours, for design, polish and motion.
 - We opened every post and its replies by hand to check the prompt, the tools and any follow-up messages the maker mentions.
-- Likes and views are what the original post showed when we checked it (November 12, 2026). One video is from Xiaohongshu (小红书), which shows likes but not views.
+- Likes and views are what the original post showed when we checked it (November 12, 2026). Two videos are from Xiaohongshu (小红书), which shows likes but not views.
 - The frames above are stills from each maker's own video, linked back to the post. Machine-readable list: [`data/videos.json`](data/videos.json).
 
 ## Add a video
