@@ -963,7 +963,7 @@ make a dynamic 15-second motion graphics video that shows what an incredible mot
 
 What makers added to it, judging by the posts above:
 
-- **Your product or site:** "...for <website url>", "The content should focus on [your product]. You should visit the pages first to learn about the product, then write the video content yourself."
+- **Your product or site:** "...for &lt;website url&gt;", "The content should focus on [your product]. You should visit the pages first to learn about the product, then write the video content yourself."
 - **A frame of reference:** "like it's your showreel", "Go all out", "like a premium developer-tool launch film", "a la Anthropic", "Apple-style".
 - **A mood or a sound:** "psychedelic and hypnotic", "Use the Oppenheimer theme music as inspiration, but compose it yourself."
 - **A guardrail:** "Avoid the frames and texts on the corners which are typical ai made giveaways!"
